@@ -4,4 +4,4 @@ browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/notes
 server-->browser: HTML-code containing the javascript file
 
 browser->server: AJAX
-server-->browser: return json
+server-->browser: return json yea
